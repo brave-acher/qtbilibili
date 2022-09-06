@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/full.png</file>
+        <file>image/pause.png</file>
+        <file>image/play.png</file>
+        <file>image/uninstallerIcon.ico</file>
+    </qresource>
+</RCC>
